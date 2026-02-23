@@ -1,0 +1,21 @@
+button {
+  padding: 1rem 1.5rem;
+  flex: 1;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.9;
+  background-color: #42693f;
+  color: #eee;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+#reset-btn {
+  background-color: #474747;
+}

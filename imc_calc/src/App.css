@@ -1,0 +1,8 @@
+#container {
+  min-width: 400px;
+  min-height: 400px;
+  background-color: #589e53;
+  padding: 2rem;
+  border-radius: 5px;
+  text-align: center;
+}
